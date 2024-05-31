@@ -1,0 +1,7 @@
+D:\Work\.NET\Section2\Section2\obj\Debug\Section2.csproj.AssemblyReference.cache
+D:\Work\.NET\Section2\Section2\obj\Debug\Section2.csproj.CoreCompileInputs.cache
+D:\Work\.NET\Section2\Section2\bin\Debug\Section2.exe.config
+D:\Work\.NET\Section2\Section2\bin\Debug\Section2.exe
+D:\Work\.NET\Section2\Section2\bin\Debug\Section2.pdb
+D:\Work\.NET\Section2\Section2\obj\Debug\Section2.exe
+D:\Work\.NET\Section2\Section2\obj\Debug\Section2.pdb
