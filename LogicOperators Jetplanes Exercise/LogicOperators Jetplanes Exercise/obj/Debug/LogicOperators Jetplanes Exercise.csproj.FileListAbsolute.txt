@@ -1,0 +1,7 @@
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\bin\Debug\LogicOperators Jetplanes Exercise.exe.config
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\bin\Debug\LogicOperators Jetplanes Exercise.exe
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\bin\Debug\LogicOperators Jetplanes Exercise.pdb
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\obj\Debug\LogicOperators Jetplanes Exercise.csproj.AssemblyReference.cache
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\obj\Debug\LogicOperators Jetplanes Exercise.csproj.CoreCompileInputs.cache
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\obj\Debug\LogicOperators Jetplanes Exercise.exe
+D:\Work\.NET\LogicOperators Jetplanes Exercise\LogicOperators Jetplanes Exercise\obj\Debug\LogicOperators Jetplanes Exercise.pdb
